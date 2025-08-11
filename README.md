@@ -1,3 +1,5 @@
 # Resource-arrangement
 这是一个资源整理仓库，整理收集互联网上的已有网站
 它会收集影音网站，以及提供部分简单的AI(人工智能使用教程)
+
+[无代码AI编程使用教程](No-code-AIprogram-course-of-study.md)
