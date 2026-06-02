@@ -5,3 +5,5 @@
 **会尽量维护和更新的**
 
 [无代码AI编程使用教程](No-code-AIprogram-course-of-study.md)
+
+[python加解密工具](CryptographicToolPython/README.md)
