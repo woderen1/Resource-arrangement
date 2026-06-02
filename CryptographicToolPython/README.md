@@ -1,7 +1,12 @@
-pip install Pillow
+[py脚本文件获取](./utf8_color_encryptor.py)
+
+
+安装依赖 `pip install Pillow`
 
     
     
+```
+
 解密
 # 基本用法
 python utf8_color_encryptor.py decrypt encoded.txt
@@ -24,3 +29,4 @@ python utf8_color_encryptor.py encrypt input.txt --output-txt encoded.txt --outp
 
     
     
+```
