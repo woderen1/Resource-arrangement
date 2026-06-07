@@ -3,7 +3,9 @@
 
 依赖为pillow12.2.0
 
-`pip install pillow==12.2.0 -i https://pypi.tuna.tsinghua.edu.cn/simple`
+    ```
+pip install pillow==12.2.0 -i https://pypi.tuna.tsinghua.edu.cn/simple
+    ```
 
     
     
