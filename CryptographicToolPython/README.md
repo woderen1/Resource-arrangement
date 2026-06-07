@@ -1,7 +1,7 @@
 [py脚本文件获取](./utf8_color_encryptor.py)
 
 
-安装依赖 `pip install Pillow`
+依赖为pillow12.2.0
 
     
     
